@@ -1,0 +1,34 @@
+# 📌 Problem Title
+
+[🔗 Problem Link](#)  
+🧩 **Category**: Arrays   
+🏷️ **Tags**: [Tag1], [Tag2], [Tag3]  
+💼 **Asked In**: Amazon, Google, etc.  
+
+---
+
+## 📋 Constraints
+- Constraint 1  
+- Constraint 2  
+- Constraint 3  
+
+---
+
+## ❓ Problem Statement
+
+Write a short clear version of the problem statement in your own words.
+
+---
+
+## 💡 Brute Force Approach
+
+- Idea/Logic:
+  - Step 1
+  - Step 2
+- Time Complexity: `O(...)`  
+- Space Complexity: `O(...)`
+
+<pre>
+```java
+// Brute Force Code (optional)
+
