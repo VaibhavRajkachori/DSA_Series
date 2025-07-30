@@ -10,7 +10,7 @@ This repo tracks my DSA Reset and growth journey. It includes:
 
 | Phase | Description | Status |
 |-------|-------------|--------|
-| Reset | Arrays Revision 0/ | 🔄 In progress |
+| Reset | Arrays Revision 0/40 | 🔄 In progress |
 | Phase 1 | Striver Sheet Full Solve | 🔄 In Progress |0/456|
 | Phase 2 | Topic Depth (DP, Graphs) | ⏳ Pending |
 | Phase 3 | Contests & Mocks | ⏳ Pending 
