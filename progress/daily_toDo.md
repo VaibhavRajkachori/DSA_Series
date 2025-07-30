@@ -9,9 +9,8 @@ Write down clear, bite-sized tasks to execute each day.
 ### 📌 Day 1 – July 30
 - [x] Create GitHub Repo and Setup Folder Structure
 - [x] Add `progress_log.md`, `daily_task.md`, and `daily_todo.md`
-- [x] Solve: Rotate Array using 3-step reverse
-- [] Solve: Longest Subarray with Sum K (positives only)
-- [] Write reflections in `daily_task.md`
+- [ ] Solve: Longest Subarray with Sum K (positives only)
+- [ ] Write reflections in `daily_task.md`
 
 ---
 
